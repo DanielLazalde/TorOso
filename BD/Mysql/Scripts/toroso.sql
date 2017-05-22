@@ -578,3 +578,8 @@ ALTER TABLE `symbols`
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+
+alter table symbolHystory add countMaxToro INTEGER not null DEFAULT 1 COMMENT 'Número de topes maximo superados de la resistencia';
+
+ALTER TABLE symbolHystoryTorOso MODIFY idUsuario int(10) unsigned NOT NULL DEFAULT 1 COMMENT 'Usuario de la transaccion';
