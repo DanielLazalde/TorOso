@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="hassilFlujo"
+    errors="0" failures="1" hostname="" id="" package="hassilFlujo" skipped="0"
+    tests="1" time="12.29" timestamp="Fri, 24 Mar 2017 00:11:49 GMT">
+  
+    <testcase name="Demo test Google" classname="hassilFlujo" time="12.29" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;select[id=tipodevale]&gt; to be present for 1000 milliseconds.">    at Object.module.exports.Demo test Google (/home/desarrollo/Documentos/proyecto/test/hassilFlujo.js:30:8)
+    at Module.call (/home/desarrollo/Documentos/proyecto/nightwatch/lib/runner/module.js:62:34)
+    at /home/desarrollo/Documentos/proyecto/nightwatch/lib/runner/testcase.js:70:29</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

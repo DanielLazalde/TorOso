@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="AP-299F"
+    errors="0" failures="1" hostname="" id="" package="AP-299F" skipped="0"
+    tests="1" time="37.78" timestamp="Sat, 06 May 2017 08:41:09 GMT">
+  
+    <testcase name="Demo test Google" classname="AP-299F" time="37.78" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;button[id=&quot;btnContinuar&quot;]&gt; to be present for 1000 milliseconds.">    at Object.module.exports.Demo test Google (/home/desarrollo/Lazalde/ConCredito/Proyectos/Bolsa/Proyectos/EQUIPO-TESTING-HASIL/proyecto/test/AP-299F.js:70:8)
+    at Module.call (/home/desarrollo/Lazalde/ConCredito/Proyectos/Bolsa/Proyectos/EQUIPO-TESTING-HASIL/proyecto/nightwatch/lib/runner/module.js:62:34)
+    at /home/desarrollo/Lazalde/ConCredito/Proyectos/Bolsa/Proyectos/EQUIPO-TESTING-HASIL/proyecto/nightwatch/lib/runner/testcase.js:70:29</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

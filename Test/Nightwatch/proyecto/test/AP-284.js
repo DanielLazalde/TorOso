@@ -1,0 +1,1 @@
+//Script Flujo Completo Escenario: Tipo Cliente Nuevo, Seguro Club 100, Con TAE, Tipo Pago STP

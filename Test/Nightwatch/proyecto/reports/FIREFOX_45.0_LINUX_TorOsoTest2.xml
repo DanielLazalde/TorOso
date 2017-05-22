@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="65">
+
+  <testsuite name="TorOsoTest2"
+    errors="0" failures="0" hostname="" id="" package="TorOsoTest2" skipped="0"
+    tests="65" time="2225" timestamp="Sun, 14 May 2017 04:47:31 GMT">
+  
+    <testcase name="INICIOOO CICLO" classname="TorOsoTest2" time="4.604" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 2" classname="TorOsoTest2" time="42.56" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 1222-cazar" classname="TorOsoTest2" time="0.01500" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 1222" classname="TorOsoTest2" time="0.002000" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 122222222-cazar" classname="TorOsoTest2" time="0.006000" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 122222222-cazar 2" classname="TorOsoTest2" time="1.003" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 122222222" classname="TorOsoTest2" time="154.1" assertions="25">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT DOSSSSSSSSSSS-cazar2" classname="TorOsoTest2" time="35.03" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR DOSSSSSSSSSSSS -2" classname="TorOsoTest2" time="25.16" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT TREESSSSS 1222-cazar-3" classname="TorOsoTest2" time="40.07" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR TREESSSSS 122222222-3" classname="TorOsoTest2" time="20.15" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT CUATRO 1222-cazar" classname="TorOsoTest2" time="40.01" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR CUATRO" classname="TorOsoTest2" time="20.16" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 5 1222-cazar" classname="TorOsoTest2" time="40.03" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 5" classname="TorOsoTest2" time="20.14" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 6 1222-cazar" classname="TorOsoTest2" time="40.03" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 6" classname="TorOsoTest2" time="20.16" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 7 1222-cazar" classname="TorOsoTest2" time="40.03" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 7" classname="TorOsoTest2" time="20.14" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 8 1222-cazar" classname="TorOsoTest2" time="40.04" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 8" classname="TorOsoTest2" time="20.13" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 9 1222-cazar" classname="TorOsoTest2" time="40.04" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 9" classname="TorOsoTest2" time="20.14" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 10 1222-cazar" classname="TorOsoTest2" time="40.01" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 10" classname="TorOsoTest2" time="20.14" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 11 1222-cazar" classname="TorOsoTest2" time="40.04" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 11" classname="TorOsoTest2" time="20.18" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 12 1222-cazar" classname="TorOsoTest2" time="40.01" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 12" classname="TorOsoTest2" time="20.20" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 13 1222-cazar" classname="TorOsoTest2" time="40.04" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 13" classname="TorOsoTest2" time="158.2" assertions="25">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 14 1222-cazar" classname="TorOsoTest2" time="40.03" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 14" classname="TorOsoTest2" time="20.15" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 15 1222-cazar" classname="TorOsoTest2" time="40.04" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 15" classname="TorOsoTest2" time="20.14" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 16 1222-cazar" classname="TorOsoTest2" time="40.04" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 16" classname="TorOsoTest2" time="20.16" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 17 1222-cazar" classname="TorOsoTest2" time="40.02" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 17" classname="TorOsoTest2" time="20.10" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 18 1222-cazar" classname="TorOsoTest2" time="40.03" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 18" classname="TorOsoTest2" time="20.14" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 19 1222-cazar" classname="TorOsoTest2" time="40.03" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 19" classname="TorOsoTest2" time="20.14" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 20 1222-cazar" classname="TorOsoTest2" time="40.04" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 20" classname="TorOsoTest2" time="20.14" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 21 1222-cazar" classname="TorOsoTest2" time="40.01" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 21" classname="TorOsoTest2" time="20.18" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 22 1222-cazar" classname="TorOsoTest2" time="40.04" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 22" classname="TorOsoTest2" time="20.19" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 23 1222-cazar" classname="TorOsoTest2" time="40.01" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 23" classname="TorOsoTest2" time="159.1" assertions="25">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 24 1222-cazar" classname="TorOsoTest2" time="40.04" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 24" classname="TorOsoTest2" time="20.15" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 25 1222-cazar" classname="TorOsoTest2" time="40.04" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 25" classname="TorOsoTest2" time="20.15" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 26 1222-cazar" classname="TorOsoTest2" time="40.06" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 26" classname="TorOsoTest2" time="20.14" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 27 1222-cazar" classname="TorOsoTest2" time="40.04" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 27" classname="TorOsoTest2" time="20.15" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 28 1222-cazar" classname="TorOsoTest2" time="40.03" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 28" classname="TorOsoTest2" time="20.11" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 29 1222-cazar" classname="TorOsoTest2" time="40.03" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 29" classname="TorOsoTest2" time="20.13" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT 30 1222-cazar" classname="TorOsoTest2" time="40.03" assertions="0">
+    </testcase>
+  
+    <testcase name="Demo test TorOso Inversor BOT EJECUTAR 30" classname="TorOsoTest2" time="20.15" assertions="0">
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>
